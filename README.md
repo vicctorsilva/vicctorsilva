@@ -1,6 +1,8 @@
+-SOBRE MIM
+
 - 👋 Olá meu nome é @vicctorsilva
 - 👀 to interresado em computacion
-- 🌱 eu estou aprendendo a programar 
+- 🌱 sei mais o menos programação 
 -   estou aprendendo a programar recentemente no Java e no scratch 
 
 
